@@ -1,0 +1,13 @@
+D:\Faculdade\aulas\6_semestre\swii\TP04\TP04\obj\Debug\TP04.csproj.AssemblyReference.cache
+D:\Faculdade\aulas\6_semestre\swii\TP04\TP04\obj\Debug\TP04.Form1.resources
+D:\Faculdade\aulas\6_semestre\swii\TP04\TP04\obj\Debug\TP04.Properties.Resources.resources
+D:\Faculdade\aulas\6_semestre\swii\TP04\TP04\obj\Debug\TP04.csproj.GenerateResource.cache
+D:\Faculdade\aulas\6_semestre\swii\TP04\TP04\obj\Debug\TP04.csproj.CoreCompileInputs.cache
+D:\Faculdade\aulas\6_semestre\swii\TP04\TP04\bin\Debug\TP04.exe.config
+D:\Faculdade\aulas\6_semestre\swii\TP04\TP04\bin\Debug\TP04.exe
+D:\Faculdade\aulas\6_semestre\swii\TP04\TP04\bin\Debug\TP04.pdb
+D:\Faculdade\aulas\6_semestre\swii\TP04\TP04\bin\Debug\Newtonsoft.Json.dll
+D:\Faculdade\aulas\6_semestre\swii\TP04\TP04\bin\Debug\Newtonsoft.Json.xml
+D:\Faculdade\aulas\6_semestre\swii\TP04\TP04\obj\Debug\TP04.csproj.CopyComplete
+D:\Faculdade\aulas\6_semestre\swii\TP04\TP04\obj\Debug\TP04.exe
+D:\Faculdade\aulas\6_semestre\swii\TP04\TP04\obj\Debug\TP04.pdb
